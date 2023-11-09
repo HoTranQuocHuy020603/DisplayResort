@@ -1,5 +1,5 @@
 # Tệp nén file dữ liệu của web ( TestDisPlayResort.rar)
-# PHP_DemoResort
+# HGR_Resort
 Viết một đoạn giới thiệu ngắn hai hoặc ba dòng giải thích dự án của bạn làm gì và dự án đó dành cho ai. Ngoài ra, hãy bỏ các tiêu đề như 'Giới thiệu', 'Tóm tắt' hoặc 'Tổng quan' - rõ ràng đây là phần giới thiệu.
 ## Các chức năng chính:
 - a
