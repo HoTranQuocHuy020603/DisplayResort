@@ -21,7 +21,7 @@ This is a resort management project write by Java JSP Servlet code style with My
 - Step 1: Open the Eclipse application.
 - Step 2: Add project in to Eclipse.
 - Step 3: Click in project folder.
-- Step 4: Open .jsp file and run it on server, ex path: `src/main/webapp/home.jsp `
+- Step 4: Open .jsp file and run it on server, example path: `src/main/webapp/home.jsp `
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
