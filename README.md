@@ -1,7 +1,8 @@
 # File description: 
-- Project compressed data file ( TestDisPlayResort.rar)
-- Database script file ( HGRScript.sql)
-- Main source ( main)
+- Project compressed data file ( TestDisPlayResort.rar).
+- Database script file ( HGRScript.sql).
+- Main source ( main).
+- Note file ( Readme.md).
 # HGR_Resort
 This is a resort management project write by Java JSP Servlet code style with MySQl for , with the purpose of helping users as well as managers and employees to grasp the list and basic information about the , view personal information, booking schedules,... with other functions corresponding to the permissions of the access account.
 ## Main function:
